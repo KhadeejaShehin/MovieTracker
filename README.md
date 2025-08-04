@@ -13,7 +13,7 @@ source venv/bin/activate
 - pip install django
 - pip install djangorestframework
 - pip install django-cors-headers
-- 
+
 ## Run server
 - python manage.py makemigrations
 - python manage.py migrate
